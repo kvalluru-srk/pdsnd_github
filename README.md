@@ -6,6 +6,8 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+It Calculates most busy day of a month, week, popular source and destination.
+Peak hour of the day.
 
 ### Files used
 Include the files used Bike rental data for three city Chicago, Washington & New York City
