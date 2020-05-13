@@ -1,4 +1,5 @@
 # Main program function is at the end of the code 6 functions
+# Display function was added after inital submission
 import time
 import pandas as pd
 import numpy as np
